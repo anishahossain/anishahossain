@@ -14,7 +14,7 @@ I was initially an Architecture Major, then switched over to Computer Science.
 
 *   Portfolio:
 
-<span style="size:50%">https://github.com/user-attachments/assets/ae1b9398-42c5-4bde-b2c7-e86b49d40be9 </span>
+<p style="size:50%">https://github.com/user-attachments/assets/ae1b9398-42c5-4bde-b2c7-e86b49d40be9 </p>
 
 
 *   
