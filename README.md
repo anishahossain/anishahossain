@@ -12,10 +12,6 @@ I was initially an Architecture Major, then switched over to Computer Science.
 *   🧠  I'm learning new frameworks and machine learning!
 *   🤝  I'm open to collaborating on coding projects and front-end development
 
-*   Portfolio:
-
-https://github.com/user-attachments/assets/ae1b9398-42c5-4bde-b2c7-e86b49d40be9 
-
 
 *   
 
